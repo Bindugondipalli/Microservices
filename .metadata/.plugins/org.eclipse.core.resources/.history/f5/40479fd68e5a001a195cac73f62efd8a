@@ -1,0 +1,8 @@
+server.port=9400
+spring.application.name=config
+
+spring.cloud.config.server.git.uri=C:\Users\Alchemy\Documents3\workspace-spring-tool-suite-4-4.5.1.RELEASE\abd-config-repo
+
+eureka.client.region=default
+eureka.client.registryFetchIntervalSeconds=5
+eureka.client.ServiceUrl.defaultZone="http://localhost:9400/eureka/"

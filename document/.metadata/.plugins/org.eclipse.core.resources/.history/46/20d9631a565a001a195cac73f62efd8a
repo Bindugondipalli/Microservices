@@ -1,0 +1,14 @@
+package com.cts.adb.Entity;
+
+import javax.persistence.Entity;
+import javax.persistence.Table;
+
+@Entity
+@Table(name="Groups")
+public class GroupEntity {
+	@Id
+	private String groupCode;
+	private String groupTitle;
+	private 
+
+}

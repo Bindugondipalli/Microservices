@@ -1,0 +1,5 @@
+spring.application.name=group-service
+server.port= 9500
+
+spring.jpa.show-sql=true
+spring.h2.console.enabled=true
